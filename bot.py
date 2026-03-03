@@ -1,3 +1,5 @@
+print("TOKEN:", TOKEN)
+print("MONGO:", MONGO_URI)
 import os
 import asyncio
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
